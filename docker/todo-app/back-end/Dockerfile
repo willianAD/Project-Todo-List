@@ -1,4 +1,4 @@
-FROM alpine:3.17.1
+FROM node:14-alpine
 WORKDIR /back-end
 ADD node_modules.tar.gz ./
 COPY ./ ./
