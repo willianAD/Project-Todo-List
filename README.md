@@ -10,7 +10,7 @@ A habilidade de orquestrar os três contêineres utilizando o Docker compose.
 
 ## Funcionalidades
 
-<img src="" width="300px" height="500px">
+<img src="" width="400px" height="600px">
 
 ## Contribuição
 
