@@ -1,10 +1,21 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Todo-List com Docker
+
+“Conteinerizar” as aplicações de frontend, backend e testes, criar uma conexão entre elas e orquestrar seu funcionamento!
+
+O conhecimento dos comandos dockers no CLI - Interface de linha de comando;
+A habilidade de criar um contêiner Docker para uma aplicação de front-end;
+A habilidade de criar um contêiner Docker para uma aplicação de back-end;
+A habilidade de criar um contêiner Docker para uma aplicação de testes;
+A habilidade de orquestrar os três contêineres utilizando o Docker compose.
+
+## Funcionalidades
+
+<img src="" width="300px" height="500px">
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Licença
+
+Este projeto está licenciado sob a [Trybe](https://www.betrybe.com/).
