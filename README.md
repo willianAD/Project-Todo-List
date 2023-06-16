@@ -10,7 +10,7 @@ A habilidade de orquestrar os três contêineres utilizando o Docker compose.
 
 ## Funcionalidades
 
-<img src="https://raw.githubusercontent.com/willianAD/Project-Todo-List/main/Image/Projeto%20Todo%20List.png" width="400px" height="600px">
+<img src="https://raw.githubusercontent.com/willianAD/Project-Todo-List/main/Image/Projeto%20Todo%20List.png">
 
 ## Contribuição
 
